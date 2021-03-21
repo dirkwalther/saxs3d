@@ -16,34 +16,35 @@ current email address: walther@mpimp-golm.mpg.de
 Stanford University, Stanford, CA 94305
 doniach@drizzle.stanford.edu
 
-Reference: Manuscript submitted to
-Journal of Applied Crystallography
-Synopsis: A reconstruction algorithm is described
-to yield three-dimensional models from one-dimensional SAXS data
-of biomolecules in solution.
+Reference: 
+
+Reconstruction of low-resolution three-dimensional density maps from one-dimensional small-angle X-ray solution scattering data for biomolecules
+D. Walther, F. E. Cohen and S. Doniach
+J. Appl. Cryst. (2000). 33, 350-363
+https://doi.org/10.1107/S0021889899015976
+
+https://onlinelibrary.wiley.com/doi/abs/10.1107/S0021889899015976
+Synopsis: A reconstruction algorithm is described to yield three-dimensional models from one-dimensional SAXS data of biomolecules in solution.
+
 
 Available Programs:
 
 saxs3d  - model reconstruction from SAXS scattering profile data
 xlattice  - display and superpositions of bead models and structures
-pdb2xyz_saxs  - calculation of Debye scattering profiles from proteins
-in pdb format and conversion into xyz-format to be used in xlattice
+pdb2xyz_saxs  - calculation of Debye scattering profiles from proteins in pdb format and conversion into xyz-format to be used in xlattice
+
 Note: Executables pre-compiled on SGI IRIX64 (dir bin/),
 Invoke programs just by their names without flags to get instructions
 
-Test sets
-under dir examples/
- (download)
+Test sets under dir examples/ (download)
 
-Disclaimer/ Terms: Software is provided as is without any guarantee of any
-kind. Usage of saxs3d shall be properly referenced in publications.
-Permission to  freely distribute and modify the software is granted provided that
-the orginal statement of authorship is not supressed.
+Disclaimer/ Terms: Software is provided as is without any guarantee of any kind. Usage of saxs3d shall be properly referenced in publications.
+Permission to  freely distribute and modify the software is granted provided that the orginal statement of authorship is not supressed.
+
 uncompress: uncompress saxs3d.tar.Z
 untar: tar -xvf saxs3d.tar
 
 includes binary executables (bin/), source-code (source/), examples (examples/) under SAXS3D/
-
 
  
 Saxs3D - 3D-reconstruction program from scattering profile data
@@ -142,12 +143,10 @@ Example: xlattice lattice_2bb2.xyz 2bb2_ca.xyz
  
  
 
+
 pdb2xyz_saxs - calculate Debye scattering profiles and convert pdb-structures into
 xyz-format
 
-
-
- 
 
 Compile with: cc pdb2xyz_saxs.c -lm -o pdb2xyz_saxs
 

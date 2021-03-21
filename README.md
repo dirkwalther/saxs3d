@@ -10,6 +10,7 @@ Dirk Walther1, Fred E. Cohen1 & Sebastian Doniach2
 1) Departement of Cellular and Molecular Pharmacology
 University of California, San Francisco, CA 94143
 walther|cohen@cmpharm.ucsf.edu
+current email address: walther@mpimp-golm.mpg.de
 
 2) Departments of Applied Physics and Physics
 Stanford University, Stanford, CA 94305

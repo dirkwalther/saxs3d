@@ -117,7 +117,7 @@ usage: command model1.xyz [model2.xyz]
                     apply filter by requiring that a bead
                     has at least <min number of bonds> within <considered_as_bonded_cutoff_length>,
                     purpose: filtering of superimposed models (contrast enhancement)
-        -label  show labels<p>
+        -label  show labels
 
 
 

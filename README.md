@@ -49,7 +49,7 @@ untar: tar -xvf saxs3d.tar
 includes binary executables (bin/), source-code (source/), examples (examples/) under SAXS3D/
 
  
-Saxs3D - 3D-reconstruction program from scattering profile data
+<b>Saxs3D - 3D-reconstruction program from scattering profile data</b>
 
 Compile with: cc saxs3d.c -lm -o saxs3d, or cc saxs3d.c -lm -O3 -o saxs3d (with optimization)
 
@@ -84,7 +84,7 @@ Example:  saxs3d saxs_2bb2.dat -l 12 -v -out 2bb2
 NOTE: input profile has to start with the first truly measured intensity, i.e. the beam stop has to be removed.
  
  
-XLATTICE - Visualization of lattice models and macromolecular structures
+<b>XLATTICE - Visualization of lattice models and macromolecular structures</b>
 (Xwindow program, runs on all UNIX platforms running X)
 
 Compile with: cc Xlattice.c -lm -lX11 -o xlattice
@@ -145,8 +145,7 @@ Example: xlattice lattice_2bb2.xyz 2bb2_ca.xyz
  
 
 
-pdb2xyz_saxs - calculate Debye scattering profiles and convert pdb-structures into
-xyz-format
+<b>pdb2xyz_saxs - calculate Debye scattering profiles and convert pdb-structures into xyz-format</b>
 
 
 Compile with: cc pdb2xyz_saxs.c -lm -o pdb2xyz_saxs

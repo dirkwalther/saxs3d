@@ -106,18 +106,20 @@ usage: command model1.xyz [model2.xyz]
                 .
                 .
                 .
-
-Options<br>
-        -rms   calculate overlap (in percent) only, no display<br>
-        -grid   <GridSpacing><br>
-                    display ruler with ticks separated at GridSpacing Angstroms<br>
-        -nosup  no superposition upon invokation of program<br>
+        
+         Options
+        -rms   calculate overlap (in percent) only, no display
+        -grid   <GridSpacing
+                    display ruler with ticks separated at GridSpacing Angstroms
+        -nosup  no superposition upon invokation of program
                     if structures are too big, superposition may take a long time.
-        -f      <min number of bonds><br>
-                    apply filter by requiring that a bead<br>
-                    has at least <min number of bonds> within <considered_as_bonded_cutoff_length>,<br>
-                    purpose: filtering of superimposed models (contrast enhancement)<br>
+        -f      <min number of bonds>
+                    apply filter by requiring that a bead
+                    has at least <min number of bonds> within <considered_as_bonded_cutoff_length>,
+                    purpose: filtering of superimposed models (contrast enhancement)
         -label  show labels<p>
+
+
 
 Example: xlattice lattice_2bb2.xyz 2bb2_ca.xyz
  

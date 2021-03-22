@@ -87,7 +87,7 @@ XLATTICE - Visualization of lattice models and macromolecular structures
 
 Compile with: cc Xlattice.c -lm -lX11 -o xlattice
 
-Usage:
+Usage: (also see xlattice.gif (part of the distribution) for further instructions)
 
 Xlattice v990315, Author: Dr Dirk Walther (UCSF)
  

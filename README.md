@@ -141,7 +141,7 @@ Example: xlattice lattice_2bb2.xyz 2bb2_ca.xyz
                 lower right corner: write current model to file named xlattice_supimp.xyz
 
 
- 
+ ![alt text](https://github.com/dirkwalther/saxs3d/xlattice.gif?raw=true)
  
  
 

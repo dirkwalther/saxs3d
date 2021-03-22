@@ -27,6 +27,8 @@ https://onlinelibrary.wiley.com/doi/abs/10.1107/S0021889899015976
 Synopsis: A reconstruction algorithm is described to yield three-dimensional models from one-dimensional SAXS data of biomolecules in solution.
 
 
+Instructions also provided in: index.html (included in the distribution)
+
 Available Programs:
 
 saxs3d  - model reconstruction from SAXS scattering profile data

@@ -29,7 +29,7 @@ Synopsis: A reconstruction algorithm is described to yield three-dimensional mod
 
 Instructions also provided in: index.html (included in the distribution)
 
-Available Programs:
+<b>Available Programs:</b>
 
 saxs3d  - model reconstruction from SAXS scattering profile data
 xlattice  - display and superpositions of bead models and structures

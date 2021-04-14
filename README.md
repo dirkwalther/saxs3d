@@ -12,7 +12,7 @@ University of California, San Francisco, CA 94143
 walther|cohen@cmpharm.ucsf.edu
 current email address: walther@mpimp-golm.mpg.de
 
-2) Departments of Applied Physics and Physics
+2) Department of Applied Physics and Physics
 Stanford University, Stanford, CA 94305
 doniach@drizzle.stanford.edu
 
